@@ -28,9 +28,3 @@ Each segment received custom strategies to enhance engagement, from loyalty-base
 
 ## 📄 Data Source 
 The dataset for this project was obtained from Maven Analytics, a platform dedicated to helping professionals build analytical skills through real-world data challenges.
-
-## 🗁 Project Structure
-├── data/                # Raw and processed data files  
-├── notebooks/           # Jupyter notebooks for EDA & clustering  
-├── visuals/             # Heatmaps and cluster plots  
-├── README.md            # Project overview and insights  
