@@ -26,5 +26,8 @@ The customer data revealed meaningful behavioral differences across regions. Ger
 ## 💡Recommendations
 Each segment received custom strategies to enhance engagement, from loyalty-based incentives to targeted investment plans—directly supporting retention, profitability, and customer satisfaction.
 
-## 📄 Data Source 
-The dataset for this project was obtained from Maven Analytics, a platform dedicated to helping professionals build analytical skills through real-world data challenges.
+## 📄 Dataset 
+* **Source:** [Maven Analytics](https://www.mavenanalytics.io/)  
+* **Format:** CSV (.csv)
+
+
