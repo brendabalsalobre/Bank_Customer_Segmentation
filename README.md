@@ -1,6 +1,6 @@
 # Bank Customer Segmentation Project
 
-## 📌 Project Overview
+## 🔎 Project Overview
 This project applies K-Means clustering to segment bank customers based on key financial and behavioral features. By identifying five distinct customer profiles, it provides data-driven recommendations to help the bank refine its marketing strategies, enhance customer retention, and foster long-term banking relationships across Germany, France, and Spain. 
 
 ## 🎯 Objective
