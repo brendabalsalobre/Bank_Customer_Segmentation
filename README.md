@@ -14,6 +14,7 @@ The objective of this project is to demonstrate my analytical workflow and provi
 * Heatmaps for Cluster Insights
 
 ## 📊 Key Findings
+![Customer Segmentation Heatmap](visuals/heatmap_visualization.png)
 * Cluster 0: Low balance, high product use (France & Spain) → Reward programs, financial guidance
 * Cluster 1: High balance, low product use (France) → Investment offerings, premium savings
 * Cluster 2: High balance, low product use (Germany) → Wealth services, custom plans
