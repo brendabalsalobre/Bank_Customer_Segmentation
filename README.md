@@ -1,2 +1,2 @@
-# Bank-Customer-Segmentation
-Bank Customer Segmentation Project
+# Bank Customer Segmentation Project
+
